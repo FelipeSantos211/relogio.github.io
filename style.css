@@ -10,7 +10,7 @@
 }
   
 body {
-    background: url(./src/fundo-de-textura-com-diferentes-folhas-exoticas-generativas-al.jpg);
+    background: url(./background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
